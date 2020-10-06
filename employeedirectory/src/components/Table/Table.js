@@ -4,7 +4,7 @@ import axios from "axios";
 function Table (){
     const [users, setUsers] = useState([]);
 // enter the coding for useEffect here so that the api call is only made once and does not keep refreshing.
-//useEffect(() => {
+useEffect(() => {
 //     fetch("localhost:3001/links/")
 //         .then(Response => response.json())
 //         .then(data => setData(data));
