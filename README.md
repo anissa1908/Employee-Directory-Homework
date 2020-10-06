@@ -9,7 +9,19 @@ I created an employee directory with React where the application's user interfac
 # Technologies Used:
 React
 Heroku for deployment
+HTML
+CSS
 
 # API used
 https://randomuser.me/api/?results=200&nat=us
+
+## LINK TO GITHUB REPOSITORY
+
+
+
+## LINK TO HEROKU DEPLOYED APP
+
+
+## IMAGES OF DEPLOYED APPLICATION
+![image](src/Employee Directory Homework.png)
 
