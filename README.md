@@ -16,11 +16,11 @@ CSS
 https://randomuser.me/api/?results=200&nat=us
 
 ## LINK TO GITHUB REPOSITORY
-
+https://github.com/anissa1908/Employee-Directory-Homework
 
 
 ## LINK TO HEROKU DEPLOYED APP
-
+https://anissa-fortune-500.herokuapp.com/
 
 ## IMAGES OF DEPLOYED APPLICATION
 ![image](./employeedirectory/public/emp_dir.png)
