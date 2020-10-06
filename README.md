@@ -23,5 +23,5 @@ https://randomuser.me/api/?results=200&nat=us
 
 
 ## IMAGES OF DEPLOYED APPLICATION
-![image](public/Employee-Directory-Homework.png)
+![image](./employeedirectory/public/emp_dir.png)
 
