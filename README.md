@@ -20,6 +20,6 @@ https://github.com/anissa1908/Employee-Directory-Homework
 ## LINK TO HEROKU DEPLOYED APP
 https://anissa-fortune-500.herokuapp.com/
 
-## IMAGES OF DEPLOYED APPLICATION
+## IMAGE OF DEPLOYED APPLICATION
 <img src="public\emp_dir.png">
 
