@@ -4,13 +4,13 @@
 
 Employee directory created with React.js where the application's user interface was divided into components, utilizing component state and is able to respond to user events. When the user loads the page, a table of employeees will render to the page. The user is to filter by a property.
 
-# Technologies Used:
+## Technologies Used:
 React.js
 Heroku for deployment
 HTML
 CSS
 
-# API used
+## API used
 https://randomuser.me/api/?results=200&nat=us
 
 ## LINK TO GITHUB REPOSITORY
