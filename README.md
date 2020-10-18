@@ -13,13 +13,13 @@ CSS
 ## API used
 https://randomuser.me/api/?results=200&nat=us
 
-## LINK TO GITHUB REPOSITORY
+## Link To GitHub Repository
 https://github.com/anissa1908/Employee-Directory-Homework
 
 
-## LINK TO HEROKU DEPLOYED APP
+## Link To Heroku Deployed App
 https://anissa-fortune-500.herokuapp.com/
 
-## IMAGE OF DEPLOYED APPLICATION
+## Image of Deployed App
 <img src="public\emp_dir.png">
 
