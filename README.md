@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Employee-Directory using React
+=======
+# React Homework: Employee Directory
+>>>>>>> 0e287373603d419ba53f774edbbf73eb9ad73d93
 
 ## Overview
 
